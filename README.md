@@ -39,7 +39,6 @@ Physical AI · Robotics · Technical Education
   - ROS 2 · Computer Vision
   - 로봇·AI 기술교육
 
-
 <details open>
 <summary><strong>현재 경력</strong></summary>
 
