@@ -11,7 +11,7 @@
 - 음성 명령과 객체 인식을 활용한 로봇 프로젝트
 - 로봇·AI 교육 및 프로젝트 멘토링
 
-<details>
+<details open>
 <summary><strong>현재 경력</strong></summary>
 
 | 경력 | 기간 |
