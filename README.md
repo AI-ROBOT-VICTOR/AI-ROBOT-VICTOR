@@ -26,8 +26,9 @@ Physical AI · Robotics · Technical Education
 ---
 
 ### 📇 명함
-
-<img src="./명함앞.png" alt="이충현 명함" width="300">
+| 왼쪽 | 오른쪽 |
+| :---: | :---: |
+| <img src="./NameCardF.png" alt="명함 앞면" width="320"> | <img src="./NameCardR.png" alt="명함 뒷면" width="320"> |
 
 - 💼 현재 경력
   - **데이터코어 대표** (2023년 ~ 현재)
