@@ -2,7 +2,12 @@
 
 **Physical AI · Robotics · Technical Education**
 
-협동로봇과 AI 기술을 연결하고, 학생들이 현장에서 작동하는 로봇 시스템을 직접 만들도록 가르치고 있습니다.
+반도체, 디스플레이, 자동차, 물류 산업에서 시스템 & 소프트웨어 개발, 프로젝트·컨설팅을 수행했습니다.
+현재는 데이터코어 대표로서 협동로봇, ROS2, 컴퓨터 비전, 센서, 음성 인식 기술을 연결하는 Physical AI 프로젝트와 기술 교육에 집중하고 있습니다.
+
+대학생과 실무자를 대상으로 로봇·AI 프로젝트를 지도합니다.
+문제 정의부터 시스템 구현과 검증, 예외 상황 대응까지 직접 경험하며 현장에서 활용할 수 있는 역량을 갖추도록 돕고 있습니다.
+협동로봇과 AI 기술을 연결하고, 학생들이 현장에서 작동하는 AI·로봇 시스템을 직접 만들도록 가르치고 있습니다.
 
 ## 강의 분야
 - Physical AI and VLM/VLA
@@ -13,17 +18,11 @@
 - Python, Embedded(C/C++), Java, Database
 - AX & DX, Digital Twin, Smart Logistics and Smart Factory
 
-## 이충현 (VICTOR)
-
-Physical AI · Robotics · Technical Education
-
----
-
 ### 📚 주요 프로젝트
 
 - **반도체 공정 실시간 모니터링**
 - **디스플레이 자동화 공정 프로젝트(Cognex Computer Vision, Robot, AMR, Servo, PLC)**
-- **자동차 공정 및 R*D 장비 예지보전 시스템**
+- **자동차 공정 및 R&D 장비 예지보전 시스템**
 - **메가허브 물류센터 예지보전 시스템**
 
 ---
@@ -46,8 +45,10 @@ Physical AI · Robotics · Technical Education
   - **사업관리**
 
 - 🤖 Credentials
-  - 정보통신산업진흥원(IITP) 평가위원
+  - 중소벤처기업부 K Startup 창업사업 평가위원
   - AI훈련코치(한국산업인력공단 중소기업AI훈련확산센터)
+  - 정보통신산업진흥원(NIPA) 평가위원
+  - 정보통신기획평가원(IITP) 평가위원
   - 스마트공장 수준확인 심사원(한국 표준협회)
   - 경기도 기술개발사업 평가위원
   - 데이터분석준전문가(ADsP)
