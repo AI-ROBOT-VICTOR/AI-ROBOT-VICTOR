@@ -9,7 +9,7 @@
 - ROS(Robot Operating System)
 - Computer Vision
 - 음성 명령과 객체 인식을 활용한 로봇 프로젝트
-- 로봇·AI 교육 및 프로젝트 멘토링
+- 로봇·AI 기술 교육 및 프로젝트 멘토링
 - Python, Embedded(C/C++), Java, Database
 - AX & DX, Digital Twin, Smart Logistics and Smart Factory
 
@@ -21,9 +21,10 @@ Physical AI · Robotics · Technical Education
 
 ### 📚 주요 프로젝트
 
-- **두산 협동로봇 프로젝트** — ROS 2 Jazzy와 M0609
-- **비전 기반 로봇 제어** — RealSense D435i와 YOLO
-- **로봇·AI 기술교육** — 강의 및 프로젝트 멘토링
+- **반도체 공정 실시간 모니터링**
+- **디스플레이 자동화 공정 프로젝트(Cognex Computer Vision, Robot, AMR, Servo, PLC)**
+- **자동차 공정 및 R*D 장비 예지보전 시스템**
+- **메가허브 물류센터 예지보전 시스템**
 
 ---
 
