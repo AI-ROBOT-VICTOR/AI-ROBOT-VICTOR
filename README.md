@@ -25,7 +25,9 @@ Physical AI · Robotics · Technical Education
 
 ---
 
+### 📇 명함
 
+![이충현 명함](./business-card.png)
 
 - 💼 현재 경력
   - **데이터코어 대표** (2023년 ~ 현재)
