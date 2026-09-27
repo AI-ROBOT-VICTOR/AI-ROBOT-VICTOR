@@ -28,7 +28,7 @@ Physical AI · Robotics · Technical Education
 ### 📇 명함
 <p>
   <img src="./NameCardF.png" alt="명함 앞면" width="320">
-  <img src="./NameCardR.jpg" alt="명함 뒷면" width="320">
+  <img src="./NameCardR.jpg" alt="명함 뒷면" width="330">
 </p>
 
 - 💼 현재 경력
