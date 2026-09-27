@@ -6,10 +6,12 @@
 
 ## 강의 분야
 - Physical AI and VLM/VLA
-- 두산 협동로봇 M0609 · ROS2 Jazzy
-- RealSense D435i · YOLO · Computer Vision
+- ROS(Robot Operating System)
+- Computer Vision
 - 음성 명령과 객체 인식을 활용한 로봇 프로젝트
 - 로봇·AI 교육 및 프로젝트 멘토링
+- Python, Embedded(C/C++), Java, Database
+- AX & DX, Digital Twin, Smart Logistics and Smart Factory
 
 ## 이충현 (VICTOR)
 
