@@ -22,7 +22,7 @@
 
 - **반도체 공정 실시간 모니터링**
 - **디스플레이 자동화 공정 프로젝트(Cognex Computer Vision, Robot, AMR, Servo, PLC)**
-- **AI기반 Qualilty Management System(품질이상조치, 공정변경 품질 영향도 분석, Tracebililty 분석 고도화)**
+- **AI기반 QMS(품질이상조치, 공정변경 품질 영향도 분석, Tracebililty 분석 고도화)**
 - **자동차 공정 및 R&D 장비 예지보전 시스템**
 - **메가허브 물류센터 예지보전 시스템**
 - 
